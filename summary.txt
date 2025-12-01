@@ -1,0 +1,2 @@
+Total Campus Consumption: 42019.07 kWh
+Highest Building: Building_B_08_2024 (8466.39 kWh)
